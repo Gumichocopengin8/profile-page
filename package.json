@@ -2,6 +2,7 @@
   "name": "profile-page",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://gumichocopengin8.github.io/profile-page/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
